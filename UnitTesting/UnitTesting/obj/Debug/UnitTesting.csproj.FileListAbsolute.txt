@@ -1,0 +1,9 @@
+c:\users\leandro\documents\visual studio 2015\Projects\UnitTesting\UnitTesting\bin\Debug\UnitTesting.exe.config
+c:\users\leandro\documents\visual studio 2015\Projects\UnitTesting\UnitTesting\bin\Debug\UnitTesting.exe
+c:\users\leandro\documents\visual studio 2015\Projects\UnitTesting\UnitTesting\bin\Debug\UnitTesting.pdb
+c:\users\leandro\documents\visual studio 2015\Projects\UnitTesting\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+c:\users\leandro\documents\visual studio 2015\Projects\UnitTesting\UnitTesting\obj\Debug\UnitTesting.exe
+c:\users\leandro\documents\visual studio 2015\Projects\UnitTesting\UnitTesting\obj\Debug\UnitTesting.pdb
+C:\Users\leandro\Desktop\RandomExercises\RandomExercises\UnitTesting\UnitTesting\bin\Debug\UnitTesting.exe.config
+C:\Users\leandro\Desktop\RandomExercises\RandomExercises\UnitTesting\UnitTesting\obj\Debug\UnitTesting.exe
+C:\Users\leandro\Desktop\RandomExercises\RandomExercises\UnitTesting\UnitTesting\obj\Debug\UnitTesting.pdb

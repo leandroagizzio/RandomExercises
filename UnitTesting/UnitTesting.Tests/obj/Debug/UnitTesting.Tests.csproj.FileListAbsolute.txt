@@ -1,0 +1,8 @@
+c:\users\leandro\documents\visual studio 2015\Projects\UnitTesting\UnitTesting.Tests\bin\Debug\UnitTesting.Tests.dll
+c:\users\leandro\documents\visual studio 2015\Projects\UnitTesting\UnitTesting.Tests\bin\Debug\UnitTesting.Tests.pdb
+c:\users\leandro\documents\visual studio 2015\Projects\UnitTesting\UnitTesting.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\leandro\documents\visual studio 2015\Projects\UnitTesting\UnitTesting.Tests\bin\Debug\UnitTesting.exe
+c:\users\leandro\documents\visual studio 2015\Projects\UnitTesting\UnitTesting.Tests\bin\Debug\UnitTesting.pdb
+c:\users\leandro\documents\visual studio 2015\Projects\UnitTesting\UnitTesting.Tests\obj\Debug\UnitTesting.Tests.csprojResolveAssemblyReference.cache
+c:\users\leandro\documents\visual studio 2015\Projects\UnitTesting\UnitTesting.Tests\obj\Debug\UnitTesting.Tests.dll
+c:\users\leandro\documents\visual studio 2015\Projects\UnitTesting\UnitTesting.Tests\obj\Debug\UnitTesting.Tests.pdb
